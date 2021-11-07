@@ -4,11 +4,6 @@
         <div>
           <a href="https://github.com/nicolastm15">
             <img
-              alt="Nick-pic"
-              height="160em"
-              src="https://avatars.githubusercontent.com/u/45211638?v=4"
-            />
-            <img
               height="160em"
               src="https://github-readme-stats.vercel.app/api?username=nicolastm15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
             />
