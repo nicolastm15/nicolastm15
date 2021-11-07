@@ -23,56 +23,62 @@
               <img
                 align="center"
                 alt="Nick-Js"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               />
               <img
                 align="center"
                 alt="Nick-NodeJS"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
               />
               <img
                 align="center"
                 alt="Nick-React"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
               />
               <img
                 align="center"
-                alt="Nick-Express"
-                height="30"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-              />
-              <img
-                align="center"
                 alt="Nick-Python"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+              />
+             <img
+                align="center"
+                alt="Nick-Java"
+                height="40"
+                width="40"
+                src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
               />
               <img
                 align="center"
                 alt="Nick-Git"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
               />
-              <img
+              <img 
                 align="center"
                 alt="Nick-Github"
-                height="30"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+                height="40"
+                width="40" 
+                src="https://img.icons8.com/fluency/48/000000/github.png"
               />
+              <img 
+                align="center"
+                alt="Nick-Github"
+                height="40"
+                width="40" 
+                src="https://img.icons8.com/material/480/ffffff/amazon-web-services.png"/>              
               <img
                 align="center"
                 alt="Nick-Docker"
-                height="30"
+                height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
               />
