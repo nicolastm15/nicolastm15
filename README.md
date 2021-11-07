@@ -1,7 +1,7 @@
 <div>
       <h2>A little on my skills</h2>
       <div>
-        <div align="center">
+        <div>
           <a href="https://github.com/nicolastm15">
             <img
               alt="Nick-pic"
