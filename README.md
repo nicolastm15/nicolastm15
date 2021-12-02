@@ -116,11 +116,14 @@
           <div>
             <h2>What I've been up to</h2>
             <ul>
-              <li>💼 Software Developer Intern at Neopath Integrated Systems;</li>
-              <li>🎓 Majoring in Information Systems at UFRRJ;</li>
-              <li>📝 College's final project on Recommender Systems;</li>
-              <li>🌱 Learning .NET Framework and ASP.NET;</li>
-              <li>🚀 Improving my skill on NodeJS.</li>
+              <li>💼 Software Developer Intern at Neopath Integrated Systems</li>
+              <li>🎓 Majoring in Information Systems at UFRRJ</li>
+              <li>📝 College's final project on Recommender Systems</li>
+              <li>💻 Learning .NET Framework and ASP.NET</li>
+              <li>🚀 Improving my skills on NodeJS</li>
+              <li>🏠 Native Brazilian Portuguese</li>    
+              <li>🌎 Former English Teacher</li>
+              <li>📚 Learning Spanish</li>
             </ul>
           </div>
         </div>
