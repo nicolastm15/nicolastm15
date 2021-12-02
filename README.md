@@ -126,4 +126,4 @@
         </div>
       </div>
   
-  ![Snake animation](https://github.com/nicolatmaia/nicolastmaia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nicolastmaia/nicolastmaia/blob/output/github-contribution-grid-snake.svg)
