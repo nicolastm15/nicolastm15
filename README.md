@@ -76,19 +76,6 @@
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
               />
-              <img 
-                align="center"
-                alt="Nick-Github"
-                height="40"
-                width="40" 
-                src="https://img.icons8.com/fluency/48/000000/github.png"
-              />
-              <img 
-                align="center"
-                alt="Nick-Github"
-                height="40"
-                width="40" 
-                src="https://img.icons8.com/material/480/ffffff/amazon-web-services.png"/>              
               <img
                 align="center"
                 alt="Nick-Docker"
@@ -103,6 +90,13 @@
                 width="40"
                 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
               />
+              <img 
+                align="center"
+                alt="Nick-Github"
+                height="40"
+                width="40" 
+                src="https://img.icons8.com/material/480/ffffff/amazon-web-services.png"
+              />              
             </div>
           </div>
           <br>
