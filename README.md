@@ -57,6 +57,20 @@
               />
               <img
                 align="center"
+                alt="Nick-csharp"
+                height="40"
+                width="40"
+                src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+              />  
+              <img
+                align="center"
+                alt="Nick-dotnet"
+                height="40"
+                width="40"
+                src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"
+              />  
+              <img
+                align="center"
                 alt="Nick-Git"
                 height="40"
                 width="40"
