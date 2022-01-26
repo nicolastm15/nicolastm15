@@ -57,14 +57,14 @@
               />
               <img
                 align="center"
-                alt="Nick-csharp"
+                alt="Nick-Csharp"
                 height="40"
                 width="40"
                 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
               />  
               <img
                 align="center"
-                alt="Nick-dotnet"
+                alt="Nick-Dotnet"
                 height="40"
                 width="40"
                 src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"
@@ -95,6 +95,13 @@
                 height="40"
                 width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+              />
+              <img
+                align="center"
+                alt="Nick-Postgres"
+                height="40"
+                width="40"
+                src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
               />
             </div>
           </div>
