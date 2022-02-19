@@ -138,7 +138,7 @@
               <li>🚀 Improving my skills on NodeJS</li>
               <li>🏠 Native Brazilian Portuguese</li>    
               <li>🌎 Former English Teacher</li>
-              <li>📚 Learning Spanish</li>
+              <li>📚 Aprendiendo Español</li>
             </ul>
           </div>
         </div>
