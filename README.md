@@ -1,24 +1,6 @@
 <div>
-      <h2>A little on my skills</h2>
-      <div>
-        <div>
-          <a href="https://github.com/nicolastmaia">
-            <img
-              height="160em"
-              src="https://github-readme-stats.vercel.app/api?username=nicolastmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-            />
-            <img
-              height="160em"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastmaia&layout=compact&langs_count=7&theme=dracula"
-            />
-          </a>
-        </div>
-        <div
-          display="flex"
-          direction="row"
-        >
           <div>
-            <h3>Languages and Tools 🛠</h3>
+            <h1>Languages and Tools 🛠</h1>
             <div>
               <img
                 align="center"
@@ -101,7 +83,7 @@
           </div>
           <br>
           <div>
-            <h3>Wanna reach me? 👇</h3>
+            <h1>How to reach me 👇</h1>
             <div>
               <a href="https://instagram.com/nicolastmaia" target="_blank"
                 ><img
@@ -129,19 +111,16 @@
         <br />
         <div>
           <div>
-            <h2>What I've been up to</h2>
+            <h1>What I've been up to</h1>
             <ul>
               <li>💼 Developer Analyst at Neopath Integrated Systems</li>
-              <li>🎓 Majoring in Information Systems at UFRRJ</li>
+              <li>🎓 Bachelor's Degree in Information Systems from UFRRJ</li>
               <li>📝 College's final project on Recommender Systems</li>
-              <li>💻 Learning .NET Framework and ASP.NET</li>
-              <li>🚀 Improving my skills on NodeJS</li>
+              <li>💻 Proficiency in C#, NodeJS, React and React Native</li>
               <li>🏠 Native Brazilian Portuguese</li>    
               <li>🌎 Former English Teacher</li>
-              <li>📚 Aprendiendo Español</li>
+              <li>📚 Intermediate Spanish</li>
             </ul>
           </div>
         </div>
       </div>
-  
-  ![Snake animation](https://github.com/nicolastmaia/nicolastmaia/blob/output/github-contribution-grid-snake.svg)
