@@ -11,10 +11,17 @@
               />
               <img
                 align="center"
+                alt="Nick-Js"
+                height="40"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+              />      
+              <img
+                align="center"
                 alt="Nick-NodeJS"
                 height="40"
                 width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
               />
               <img
                 align="center"
@@ -25,59 +32,66 @@
               />
               <img
                 align="center"
-                alt="Nick-Python"
-                height="40"
-                width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-              />
-             <img
-                align="center"
-                alt="Nick-Java"
-                height="40"
-                width="40"
-                src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-              />
-              <img
-                align="center"
                 alt="Nick-Csharp"
                 height="40"
                 width="40"
-                src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"
               />  
               <img
                 align="center"
                 alt="Nick-Dotnet"
                 height="40"
                 width="40"
-                src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg"
               />  
+              <img
+                align="center"
+                alt="Nick-Spring"
+                height="40"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
+              />
               <img
                 align="center"
                 alt="Nick-Git"
                 height="40"
                 width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
               />
               <img
                 align="center"
                 alt="Nick-Docker"
                 height="40"
                 width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
+              />
+              <img
+                align="center"
+                alt="Nick-Ansible"
+                height="40"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
+              />
+              <img
+                align="center"
+                alt="Nick-Ansible"
+                height="40"
+                width="40"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
               />
               <img
                 align="center"
                 alt="Nick-Postgres"
                 height="40"
                 width="40"
-                src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"
               />
               <img 
                 align="center"
                 alt="Nick-Github"
                 height="40"
                 width="40" 
-                src="https://img.icons8.com/material/480/ffffff/amazon-web-services.png"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
               />              
             </div>
           </div>
