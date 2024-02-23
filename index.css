@@ -478,6 +478,10 @@ body:not(.user-is-tabbing) a:focus {
   margin: 0;
 }
 
+.work__title:hover {
+  transform: scale(1.05);
+}
+
 .work__text {
   flex: 0 0 30%;
 }
@@ -486,6 +490,10 @@ body:not(.user-is-tabbing) a:focus {
   /* list-style-type: square; */
   list-style-position: inside;
   margin-bottom: var(--gutter-normal);
+}
+
+.client__logo:hover {
+  transform: scale(1.2);
 }
 
 .work__code {
