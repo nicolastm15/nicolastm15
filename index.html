@@ -1,0 +1,277 @@
+<!-- 
+  Hello 😊.
+
+  This template is designed and developed by Nisar Hassan Naqvi
+  for anyone to use for free or customize the way they like.
+
+  Github Repo: https://github.com/nisarhassan12/portfolio-template/
+  My Website: https://nisar.dev
+
+  For business & inquires, contact me => syednisarhassan12@gmail.com
+-->
+
+<!--
+  Follow the instructions written in comments to create your stunning portfolio
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" type="image/png" href="./images/favicon.jpg" />
+
+  <!-- Put your site title here -->
+  <title>
+    Nícolas T. Maia | A Fullstack Developer based in Brazil.
+  </title>
+
+  <meta name="description"
+    content="I'm a Bachelor of Information Systems with 3 years of professional experience as a Software Developer. Skilled in a diverse range of technologies including C#, NodeJS, ReactJS, React Native, Docker, Ansible, and Elastic Stack.">
+  <!-- Add some coding keywords below, Ex: (React, CSS etc) -->
+  <meta name="keywords"
+    content="C#, C-Sharp, .net, dotnet, reactjs, react, react native, nodejs, node, javascript, typescript, docker, postgres, sql, nosql, couchdb, git, github, ansible, aws, EC2, S3, amazon web services, elastic stack, elk stack, elasticsearch, kibana, logstash" />
+  <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+
+  <!-- ***** Header ***** -->
+
+  <header class="header" role="banner" id="top">
+    <div class="row">
+      <nav class="nav" role="navigation">
+        <ul class="nav__items">
+          <li class="nav__item"><a href="#work" class="nav__link">Work</a></li>
+          <li class="nav__item"><a href="#clients" class="nav__link">Techs</a></li>
+          <li class="nav__item">
+            <a href="#about" class="nav__link">About</a>
+          </li>
+          <li class="nav__item">
+            <a href="#contact" class="nav__link">Contact</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <div class="header__text-box row">
+      <div class="header__text">
+        <h1 class="heading-primary">
+          <!-- Replace the following name with your name -->
+          <span>Nícolas T. Maia</span>
+        </h1>
+        <!-- Put a small paragraph about yourself -->
+        <p>A Fullstack Developer based in Brazil.</p>
+        <a href="#contact" class="btn btn--pink">Get in touch</a>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+
+    <!-- ***** Work ***** -->
+
+    <section class="work" id="work">
+      <div class="row">
+        <h2>My Work</h2>
+        <div class="work__boxes">
+
+          <!-- Each div with the work__box class is a project. -->
+
+          <div class="work__box">
+            <div class="work__text">
+              <a href="https://github.com/nicolastmaia/swapi-visualizer" class="work__link">
+                <h3 class="work__title">PokéAPI Visualizer</h3>
+                <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+              </a>
+
+              <p>
+                This is a ReactJS app that consumes the PokéAPI and shows some data about Pokemons on screen.
+                In this project I was able to practice responsive design by using Grid Layout and to practice creating a
+                design with
+                colors following the 60-30-10 rule.
+              </p>
+              <ul class="work__list">
+                <li>ReactJS</li>
+                <li>Responsive</li>
+                <li>JavaScript</li>
+                <li>REST API</li>
+              </ul>
+
+            </div>
+            <div class="work__image-box">
+              <img src="./images/portfolio/pokeapi-visualizer/web.gif" class="work__image" alt="Project 1" />
+            </div>
+          </div>
+
+
+          <div class="work__box">
+            <div class="work__text">
+              <a href="https://github.com/nicolastmaia/swapi-visualizer" class="work__link">
+                <h3 class="work__title">Dev Radar</h3>
+                <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+              </a>
+
+              <p>
+                This Project is meant to help people find developers based on location and technologies mastered. It was
+                developed
+                during Rocketseat's 10th OmniStack Week using NodeJS, React Native and ReactJS.
+              </p>
+              <ul class="work__list">
+                <li>ReactJS</li>
+                <li>React Native</li>
+                <li>NodeJS</li>
+                <li>MongoDB</li>
+                <li>React Native Maps</li>
+              </ul>
+
+            </div>
+            <div class="work__image-box">
+              <img src="./images/portfolio/dev-radar/web+mobile.gif" class="work__image" alt="Project 3" />
+            </div>
+          </div>
+
+          <div class="work__box">
+            <div class="work__text">
+
+              <a href="https://github.com/nicolastmaia/swapi-visualizer" class="work__link">
+                <h3 class="work__title">SWAPI Visualizer</h3>
+                <img src="./images/github.svg" class="work__code" title="View Source Code" alt="GitHub">
+              </a>
+
+              <p>
+                This is a ReactJS app that consumes the SWAPI and shows some data about the Star Wars movies and
+                characters.
+                It was the first project in which I used Grid Layout and had the chance to learn how to make a
+                responsive design.
+              </p>
+              <ul class="work__list">
+                <li>ReactJS</li>
+                <li>Responsive</li>
+                <li>JavaScript</li>
+                <li>REST API</li>
+              </ul>
+            </div>
+            <div class="work__image-box">
+              <img src="./images/portfolio/swapi-visualizer/web.gif" class="work__image" alt="Project 2" />
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** Clients ***** -->
+
+    <section class="client" id="clients">
+      <div class="row">
+        <h2>Techs</h2>
+        <div class="client__logos">
+          <!-- Add logos of the clients or companies you'have worked with. -->
+          <img src="./images/techs/csharp-plain.svg" class="client__logo" alt="C#" />
+          <img src="./images/techs/dot-net-plain-wordmark.svg" class="client__logo" alt="DotNet" />
+          <img src="./images/techs/javascript.svg" class="client__logo" alt="Javascript" />
+          <img src="./images/techs/typescript-plain.svg" class="client__logo" alt="Typescript" />
+          <img src="./images/techs/nodejs-plain-wordmark.svg" class="client__logo" alt="NodeJS" />
+          <img src="./images/techs/react.svg" class="client__logo" alt="ReactJS" />
+          <img src="./images/techs/react-native.svg" class="client__logo" alt="React Native" />
+          <img src="./images/techs/spring-original-wordmark.svg" class="client__logo" alt="Spring" />
+          <img src="./images/techs/postgresql-plain-wordmark.svg" class="client__logo" alt="postgres" />
+          <img src="./images/techs/git-plain-wordmark.svg" class="client__logo" alt="Git" />
+          <img src="./images/techs/docker-plain-wordmark.svg" class="client__logo" alt="Docker" />
+          <img src="./images/techs/elasticsearch-original.svg" class="client__logo" alt="Elasticsearch" />
+          <img src="./images/techs/ansible-original.svg" class="client__logo" alt="Ansible" />
+          <img src="./images/techs/amazonwebservices-plain-wordmark.svg" class="client__logo" alt="aws" />
+        </div>
+      </div>
+    </section>
+
+    <!-- ***** About ***** -->
+
+    <section class="about" id="about">
+      <div class="row">
+        <h2>About Me</h2>
+        <div class="about__content">
+          <div class="about__text">
+            <!-- Replace the below paragraph with info about yourself -->
+            <p>
+              I'm a Bachelor of Information Systems with <span id="xp-years"></span> years of professional experience as
+              a
+              Software Developer. Skilled in a
+              diverse range of technologies including C#, NodeJS, ReactJS, React Native, Docker, Ansible, and Elastic
+              Stack.
+            </p>
+            <!-- Provide a link to your resume -->
+            <a href="./assets/resume.pdf" class="btn">My Resume</a>
+          </div>
+
+          <div class="about__photo-container">
+            <!-- Add a nice photo of yourself -->
+            <img class="about__photo" src="./images/about_me.jpg" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ***** Contact ***** -->
+
+  <section class="contact" id="contact">
+    <div class="row">
+      <h2>Get in Touch</h2>
+
+      <div class="contact__info">
+        <p>
+          You can reach me through my email or any of my socials below.
+        </p>
+        <!-- Replace the email with yours -->
+        <div style="display: flex; flex-direction: column; width: fit-content;">
+          <a href="mailto:nicolasterramaia@gmail.com" class="btn">nicolasterramaia@gmail.com</a>
+
+          <ul class="social-links">
+            <li class="footer__social-link-item">
+              <a href="https://twitter.com/nicolastmaia/" title="Link to Twitter Profile">
+                <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
+              </a>
+            </li>
+            <li class="footer__social-link-item">
+              <a href="https://github.com/nicolastmaia/" title="Link to Github Profile">
+                <img src="./images/github.svg" class="footer__social-image" alt="Github">
+              </a>
+            </li>
+            <li class="footer__social-link-item">
+              <a href=https://www.linkedin.com/in/nicolastmaia/">
+                <img src="./images/linkedin.svg" title="Link to Linkedin Profile" class="footer__social-image"
+                  alt="Linkedin">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ***** Footer ***** -->
+
+  <footer role="contentinfo" class="footer">
+    <div class="row">
+      <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
+      <p>
+        &copy; 2020 - Template designed & developed by <a href="https://nisar.dev" class="link">Nisar</a>.
+      </p>
+      <div class="footer__github-buttons">
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true"
+          frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
+        </iframe>
+      </div>
+    </div>
+  </footer>
+
+  <a href="#top" class="back-to-top" title="Back to Top">
+    <img src="./images/arrow-up.svg" alt="Back to Top" class="back-to-top__image" />
+  </a>
+  <script src="./index.js"></script>
+</body>
+
+</html>
