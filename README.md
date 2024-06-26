@@ -127,7 +127,7 @@
           <div>
             <h1>What I've been up to</h1>
             <ul>
-              <li>💼 Developer Analyst at Neopath Integrated Systems</li>
+              <li>💼 Software Engineer at <a href="https://stage.consulting/">Stage Consulting</a></li>
               <li>🎓 Bachelor's Degree in Information Systems from UFRRJ</li>
               <li>📝 College's final project on Recommender Systems</li>
               <li>💻 Proficiency in C#, NodeJS, React and React Native</li>
